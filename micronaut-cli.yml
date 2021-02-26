@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.duelist
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, flyway, http-client, jdbc-hikari, junit, kotlin, kotlin-application, logback, maven, netty-server, postgres, readme, security-annotations, security-jwt, shade, testcontainers, yaml]
